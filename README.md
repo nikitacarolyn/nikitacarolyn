@@ -1,16 +1,23 @@
-## Hi there 👋
+## Nikita Carolyn
 
-<!--
-**nikitacarolyn/nikitacarolyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Nikita, a meticulous data analyst passionate about leveraging data to solve problems and drive impactful decision making. My background in Data Analysis and Information Systems Management, combined with hands-on projects, fuels my drive to create data-driven solutions.
 
-Here are some ideas to get you started:
+##   Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Programming Languages:** Python (Pandas, NumPy, Scikit-learn), R
+* **Data Visualisation:** Tableau
+* **Databases:** SQL
+* **Other:** ETL processes, Statistical Analysis, Predictive Modeling, Hypothesis testing, Machine Learning
+
+##   Projects
+
+My projects are a compliation of my academic work, for graded assignments and workshops and personal learning projects
+
+##   Education
+
+* **MSc Data Analysis and Information Systems Management**
+* **BSc Economics, Mathematics and Statistics**
+
+##   Connect with me on LinkedIn
+https://www.linkedin.com/in/nikita-carolyn/
+
