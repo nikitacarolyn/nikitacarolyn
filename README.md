@@ -15,6 +15,7 @@ My projects are a compliation of my academic work, for graded assignments and wo
 
 ##   Education
 
+* **MSc Mathematics (Currently pursuing at Universität Potsdam**
 * **MSc Data Analysis and Information Systems Management**
 * **BSc Economics, Mathematics and Statistics**
 
