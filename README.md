@@ -5,7 +5,7 @@ Hello! I'm Nikita, a meticulous data analyst passionate about leveraging data to
 ##   Skills
 
 * **Programming Languages:** Python (Pandas, NumPy, Scikit-learn), R
-* **Data Visualisation:** Tableau, PowerBI, Looker studio
+* **Data Visualisation:** Tableau, PowerBI
 * **Databases:** SQL
 * **Other:** ETL processes, Statistical Analysis, Predictive Modeling, Hypothesis testing, Machine Learning
 
